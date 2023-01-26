@@ -1,0 +1,7 @@
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+user.name=Stefan Ivanovski
+user.email=ivanovski.st@gmail.com
+safe.directory=C:/Users/abc/Projects/my-awesome-projectC:\Users\Esteban\Desktop\Esteban\HostelManager\HostelManager
